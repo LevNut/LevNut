@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 
   ![LevNut's github stats](https://github-readme-stats.vercel.app/api?username=LevNut&hide=[%22issues%22]&show_icons=true)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NarawishS)](https://github.com/NarawishS/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevNut)](https://github.com/LevNut/github-readme-stats)
 
 
 
