@@ -34,3 +34,13 @@ You can click the Preview link to take a look at your changes.
 - 💻 &nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+  
+<br>
+  
+## GitHub Status:
+
+  ![LevNut's github stats](https://github-readme-stats.vercel.app/api?username=LevNut&hide=[%22issues%22]&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NarawishS)](https://github.com/NarawishS/github-readme-stats)
+
+
+
